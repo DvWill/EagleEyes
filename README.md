@@ -1,4 +1,4 @@
-# EagleEyes
+# EagleEyes 👁🦅
 Reconhecimento Fcial
 
 Nome do sistema: EagleEyes | Reconhecimento Facial em Vídeo com Interface Gráfica
