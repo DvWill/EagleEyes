@@ -1,12 +1,9 @@
-# EagleEyes 👁🦅
-Reconhecimento Fcial
-
 Nome do sistema: EagleEyes | Reconhecimento Facial em Vídeo com Interface Gráfica
 
 Descrição geral:
  
 Este sistema permite ao usuário selecionar imagens de treinamento (rostos conhecidos) e aplicar reconhecimento facial em um vídeo, destacando os rostos encontrados e nomeando-os conforme os dados treinados. Todo o processo é feito por meio de uma interface gráfica desenvolvida com CustomTkinter.
-____________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Tecnologias Utilizadas:
 Python
 
@@ -26,7 +23,7 @@ Pillow – manipulação de imagens
 Threading – execução em paralelo para não travar a interface
 
 
-____________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 Fluxo do Sistema:
 
 Selecionar imagens de treino
